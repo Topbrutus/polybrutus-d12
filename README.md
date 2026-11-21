@@ -1,5 +1,14 @@
 # POLYBRUTUS 12D — Exact labelled metric and sixfold spectral mode
 
+## Official public release
+
+- **Zenodo DOI:** [10.5281/zenodo.24408720](https://doi.org/10.5281/zenodo.24408720), public record [24408720](https://zenodo.org/records/24408720), verified through Zenodo REST API.
+- **Frozen scientific tag:** [`v0.1.0`](https://github.com/Topbrutus/polybrutus-d12/tree/v0.1.0), source commit `e6ea0d1d174bcd9580e4d1d1c5c5dd2355cc935e`.
+- **GitHub CI:** [D12 exact and independent proof](https://github.com/Topbrutus/polybrutus-d12/actions/runs/44840954769), result `success` on the frozen scientific commit.
+- **Publicly archived:** exact Git source ZIP, PDF preprint and 136-pair JSON certificate, three files whose checksums were verified.
+- **Scientific limits:** mathematical affine dimension 12, not a demonstrated twelve-dimensional physical spacetime nor an identified Pythagorean 12 theorem.
+
+
 **Author and scientific responsibility:** Gabriel St-Pierre (Topbrutus), independent researcher.  
 **Status:** Computational mathematical research preprint, not human peer reviewed.  
 **AI disclosure:** OpenAI ChatGPT (Astra) substantially assisted exact computations, independent checking, graph-model analysis, code, writing and release operations. It is not a research author.
