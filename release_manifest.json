@@ -3,7 +3,7 @@
   "dimension": 12,
   "repository": "Topbrutus/polybrutus-d12",
   "branch": "main",
-  "state": "CANDIDATE_VERIFIED_LOCAL_NOT_PUBLISHED",
+  "state": "DONE",
   "vertices": 17,
   "pairs": 136,
   "affine_rank": 12,
@@ -12,16 +12,53 @@
   "parent_doi": "10.5281/zenodo.24408650",
   "parent_github_tag": "Topbrutus/polybrutus-d11@v0.1.0",
   "parent_tag_commit": "b49252a03760ea55301b15a60df3c7317f8e3160",
-  "github_commit": null,
-  "github_release_tag": null,
-  "zenodo_record_id": null,
-  "zenodo_doi": null,
+  "github_commit": "e6ea0d1d174bcd9580e4d1d1c5c5dd2355cc935e",
+  "github_release_tag": "v0.1.0",
+  "zenodo_record_id": 24408720,
+  "zenodo_doi": "10.5281/zenodo.24408720",
   "scientific_delta": "Exact dimension-12 labelled metric preserving all 120 predecessor distances and ideal weighted-Laplacian eigenvalue 17/2 with multiplicity 6.",
-  "historical_twelve_pythagoras_relation": "NOT CLAIMED — separate unresolved provenance",
+  "historical_twelve_pythagoras_relation": "UNRESOLVED, NOT CLAIMED",
   "novel_universal_theorem": "NOT CLAIMED",
   "physical_claim": "NONE",
   "human_peer_review": "NOT_DONE",
   "AI_disclosure": "OpenAI ChatGPT (Astra) substantially assisted mathematics, independent software verification and writing; not an author.",
-  "verification": "Exact primary and independent rational checkers PASS on authorized workstation; GitHub CI pending.",
-  "next_action": "Create D12 private GitHub repo, verify CI, freeze source tag, stage Zenodo draft, verify before public GitHub and Zenodo publication."
+  "verification": {
+    "coordinate_rank": "PASS",
+    "centered_gram_rank": "PASS",
+    "exact_gram_psd_factorization": "PASS",
+    "parent_pairs": "120/120 PASS",
+    "new_pairs": "16/16 PASS",
+    "independent_metric": "136/136 PASS",
+    "negative_controls": "4/4 PASS",
+    "ideal_graph_spectrum": "17/2 x6; 8 x4 PASS",
+    "github_actions": "PASS",
+    "zenodo_public_files": "3/3 PASS"
+  },
+  "next_action": "On the NEXT go start D13 using frozen D12 v0.1.0; certify 18 vertices, 153 pairs, 136 former distances and rank 13. Do not start D13 before next go.",
+  "github_public_verified": true,
+  "github_actions": {
+    "run_id": 44840954769,
+    "conclusion": "success",
+    "head_sha": "e6ea0d1d174bcd9580e4d1d1c5c5dd2355cc935e"
+  },
+  "github_main_note": "Post-release DOI metadata and checksum index may advance main; scientific v0.1.0 tag remains unchanged.",
+  "zenodo_public_verified": true,
+  "zenodo_files": [
+    {
+      "name": "POLYBRUTUS_D12_SOURCE_v0.1.0_GITHUB_TAG.zip",
+      "size": 153412,
+      "sha256": "5b77eab2adfe2e583db7426a3979a7525bf5945f2246d72d023a1e0399d5ee95"
+    },
+    {
+      "name": "POLYBRUTUS_12D_NOTE.pdf",
+      "size": 158803,
+      "sha256": "a09192324f99ee728d0089239d51d0150d42fb8b1aa2082de4f3c6ac8f6c87ab"
+    },
+    {
+      "name": "certificate_d12.json",
+      "size": 11983,
+      "sha256": "a3cbd2ddead317b687fedfa9852a9aba958a9061139586bec2cc2c82904a8490"
+    }
+  ],
+  "publication_approval": "Topbrutus established that each go starts next dimension and authorized paired GitHub and Zenodo publishing; explicit go received for D12."
 }
