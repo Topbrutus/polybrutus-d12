@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Cite the verified Zenodo record after publication; before then cite the frozen source tag."
+title: "Polybrutus 12D: Exact Conservative Completion and Sixfold Spectral Multiplicity"
+authors:
+  - family-names: "St-Pierre"
+    given-names: "Gabriel"
+    orcid: "https://orcid.org/0009-0009-9297-2336"
+version: "0.1.0"
+date-released: "2026-11-20"
+url: "https://github.com/Topbrutus/polybrutus-d12"
+license: MIT
